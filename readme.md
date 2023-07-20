@@ -9,10 +9,11 @@ It will respond with a JSON representation of a greeting, as shown below:
 
 ```json
 {"id":1,"content":"Hello, Name!"}
-    
+```
 
 http://localhost:8080/greeting?name=User`
 
+```java
 package com.spring.restfullService;
 
 import java.util.concurrent.atomic.AtomicLong;
