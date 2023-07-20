@@ -7,7 +7,7 @@ You will build a service that will accept HTTP GET requests at http://localhost:
 It will respond with a JSON representation of a greeting, as shown below:
 
 ```json
-{"id":1,"content":"Hello, Name!"}` `
+{"id":1,"content":"Hello, Name!"}
     
 You can customize the greeting with an optional name parameter in the query string, as shown below:
 
